@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.log
+*.so
+*.dylib
+tuning_pid.txt
+tuning_status.json
+.DS_Store
+
