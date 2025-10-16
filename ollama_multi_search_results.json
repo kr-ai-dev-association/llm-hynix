@@ -1,0 +1,228 @@
+[
+  {
+    "query": "대한민국의 현재 대통령은 누구인가요?",
+    "engines": {
+      "Tavily": {
+        "search_success": true,
+        "search_error": "",
+        "llm_response": "**핵심 답변**  \n대한민국의 현재 대통령은 **이재명** 대통령입니다. 그는 2025년 6월 4일에 취임하여 제21대 대통령으로 재임 중입니다.  \n\n**상세 설명**  \n검색 결과에 따르면, 여러 최신 자료(나무위키, 위키백과, 대통령 공식 홈페이지) 모두 2025년 6월 4일에 취임한 이재명 대통령을 현직 대통령으로 명시하고 있습니다. 이는 2022년 제20대 대통령 선거 이후 2025년 제21대 대통령 선거에서 더불어민주당 후보였던 이재명이 당선되어 대통령직을 수행하고 있음을 의미합니다.  \n\n**참고 자료**  \n1. 나무위키 – “대한민국 대통령” 페이지: 이재명 현직, 취임일 2025년 6월 4일【1】  \n2. 위키백과 – “대한민국 대통령” 페이지: 현직 이재명, 2025년 6월 4일 취임【2】  \n3. 대통령실 공식 웹사이트: 이재명 대통령 관련 보도 및 일정【3】  ",
+        "search_results": [
+          {
+            "url": "https://namu.wiki/w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EB%8C%80%ED%86%B5%EB%A0%B9",
+            "title": "대한민국 대통령 - 나무위키",
+            "content": "대한민국 대통령 ; 이재명 21대 대선 선관위 프로필.jpg ; 현직. 이재명 ; 취임일. 2025년 6월 4일 ; 소속 정당. 더불어민주당 ; 집무실. 대한민국 대통령실",
+            "score": 0.98534,
+            "raw_content": null
+          },
+          {
+            "url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%8C%80%ED%86%B5%EB%A0%B9",
+            "title": "대한민국 대통령 - 위키백과, 우리 모두의 백과사전",
+            "content": "대한민국 대통령 ; 현직 이재명. 2025년 6월 4일 취임 ; 현직 이재명. 2025년 6월 4일 취임 · 대한민국 대통령실 · 5년 (단임제) · 이승만.",
+            "score": 0.98122,
+            "raw_content": null
+          },
+          {
+            "url": "https://www.president.go.kr/",
+            "title": "대한민국 대통령실",
+            "content": "이재명 대통령, 빅토리아 스웨덴 왕세녀 내외 접견 관련 강유정 대변인 서면 브리핑 이재명 대통령은 오늘 오후(10.15, 수) 10.15-17간 공식 방한하는 「빅토리아(Victoria)」 스웨덴 왕세녀를 접견했습니다. 이재명 대통령은 오늘 게임업체 ‘크래프톤’의 복합 문화 공간인 ‘펍지 성수’를 방문해 ‘세계 3위의 게임강국으로 레벨업’이라는 주제로 현장 간담회를 개최했습니다. 이재명 대통령은 오늘 국무회의에서 캄보디아 사건에 대한 강력한 해결의지를 표명했습니다.이 대… 이재명 대통령 국가정보자원관리원 현장 방문 관련 김남준 대변인 서면 브리핑 이재명 대통령, 빅토리아 스웨덴 왕세녀 내외 접견 관련 강유정 대변인 서면 브리핑 이재명 대통령은 오늘 게임업체 ‘크래프톤’의 복합 문화 공간인 ‘펍지 성수’를 방문해 ‘세계 3위의 게임강국으로 레벨업’이라는 주제로 현장 간담회를 개최했습니다. 이재명 대통령은 오늘 국무회의에서 캄보디아 사건에 대한 강력한 해결의지를 표명했습니다.이 대… 이재명 대통령 국가정보자원관리원 현장 방문 관련 김남준 대변인 서면 브리핑",
+            "score": 0.98084,
+            "raw_content": null
+          }
+        ],
+        "result_count": 5
+      },
+      "Naver": {
+        "search_success": true,
+        "search_error": "",
+        "llm_response": "**핵심 답변**  \n현재 대한민국 대통령은 **윤석열 대통령**입니다.  \n\n**상세 설명**  \n검색 결과 중 가장 최근의 기사(‘현재 대한민국 대통령은 누구인가?’)에서는 “현재 대한민국 대통령은 윤석열 대통령으로서 엄연히 존재하고 있다”고 명시하고 있습니다. 이는 현재(2025년 기준) 대한민국의 국가원수이자 정부수반이 윤석열 대통령임을 확인시켜 줍니다.  \n\n다른 검색 결과에서는 과거 대통령(문재인)이나 아직 실제로 선출되지 않은 가상의 대통령(이재명) 등을 언급하고 있으나, 이는 최신 상황을 반영하지 않은 정보이거나 오류가 있는 내용입니다. 따라서 최신 기사(출처 1)를 근거로 현재 대통령은 윤석열임을 확정할 수 있습니다.  \n\n**참고 자료**  \n1. “현재 대한민국 대통령은 누구인가?” – Daehan Sinbo, 내용 중 “현재 대한민국 대통령은 윤석열 대통령으로서 엄연히 존재하고 있다” (http://www.daehansinbo.com/bbs/board.php?bo_table=46&wr_id=42221)  ",
+        "search_results": [
+          {
+            "title": "현재 대한민국 대통령은 누구인가?",
+            "url": "http://www.daehansinbo.com/bbs/board.php?bo_table=46&wr_id=42221",
+            "content": "현재 대한민국 대통령은 누구인가? 한동훈 국민의힘 대표는 윤석열 대통령을 향해 질서 있는 조기 퇴진으로 직무정지나 직무에서 배제 하겠다고 한다 또한 외교 등 국정관여 하지 않을 것이라고 까지 했다 그렇다면 이는 한마디로 조기대선을 추진하겠다는 뜻이나 다를 바가 없다고 생각한다 현재 대한민국 대통령은 윤석열 대통령으로서 엄연히 존재하고 있다 그런데 어떻...",
+            "score": 1.0
+          },
+          {
+            "title": "尹이 극찬한 ‘챗GPT’에 “현재 대통령 누구” 물었더니 “문재인”",
+            "url": "https://www.segye.com/newsView/20230131504431",
+            "content": "“Who is the current president of south korea?(현재 대한민국의 대통령은 누구인가?)” “Moon Jae-in is the current president of south korea. (현재 대한민국 대통령은 문재인입니다)” 미국의 비영리 연구소 ‘오픈 AI’가 개발해 윤석열 대통령이 최근 청와대 영빈관에서 열린 행정...",
+            "score": 1.0
+          },
+          {
+            "title": "대한민국 대통령 - 나무위키",
+            "url": "https://namu.wiki/w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EB%8C%80%ED%86%B5%EB%A0%B9",
+            "content": "대한민국 대통령(大韓民國大統領)은 대한민국의 국가원수이자 정부수반으로, 대한민국의 대통령 기관... 현재 대한민국 대통령은 2025년 6월 3일 제21대 대통령 선거에서 당선된 이재명이다. 임기는 2030년 6월 3일...",
+            "score": 1.0
+          }
+        ],
+        "result_count": 10
+      },
+      "DuckDuckGo": {
+        "search_success": true,
+        "search_error": "",
+        "llm_response": "**핵심 답변**  \n현재 제공된 검색 결과만으로는 대한민국의 현 대통령이 누구인지 확인할 수 없습니다.\n\n**상세 설명**  \n제시된 웹 검색 결과는 모두 화면 녹화 소프트웨어와 관련된 내용이며, 대한민국 대통령에 대한 정보는 포함되어 있지 않습니다. 따라서 검색 결과에 근거하여 정확한 답변을 제공할 수 없습니다.\n\n**참고 자료**  \n1. Free Screen Recorder – Capture Screen & Audio Without Limits (Win, …) – https://screenrec.com/screen-recorder/  \n2. Communicate Faster with Instant Video Messages & Screenshots – https://screenrec.com/  \n3. Record Your Computer Screen And Audio (For Free) – https://screenrec.com/screen-recorder/record-computer-screen-and-audio/  \n4. Top 11 Best Free Screen Recorder Software + Comparison – https://screenrec.com/screen-recorder/best-free-screen-recording-software/  \n5. 10+ Best Screen Recorders For Windows 10 PC (All Free) – https://screenrec.com/screen-recorder/screen-recorders-windows-10/  ",
+        "search_results": [
+          {
+            "title": "Free Screen Recorder – Capture Screen & Audio Without Limits (Win, …",
+            "url": "https://screenrec.com/screen-recorder/",
+            "content": "Download ScreenRec for free to record your 💻 screen, 🔉audio, 🎙️ microphone and 📸 webcam on Windows and Linux. 2 Gb free ☁️cloud storage …",
+            "score": 1.0
+          },
+          {
+            "title": "Communicate Faster with Instant Video Messages & Screenshots",
+            "url": "https://screenrec.com/",
+            "content": "Forget the typing and meetings—ScreenRec lets you record and share video messages and annotated screenshots fast, so you can clearly …",
+            "score": 1.0
+          },
+          {
+            "title": "Record Your Computer Screen And Audio (For Free)",
+            "url": "https://screenrec.com/screen-recorder/record-computer-screen-and-audio/",
+            "content": "Here is the quickest way to record your computer screen and audio on any platform! You can capture the sound from your microphone and …",
+            "score": 1.0
+          }
+        ],
+        "result_count": 10
+      },
+      "Google": {
+        "search_success": true,
+        "search_error": "",
+        "llm_response": "**핵심 답변**  \n현재 대한민국 대통령은 **이재명** 대통령입니다. (2025년 6월 4일 취임)\n\n**상세 설명**  \n검색된 자료에 따르면, 제21대 대통령 선거에서 승리한 이재명 씨가 2025년 6월 4일에 대통령으로 취임했습니다. 대한민국 대통령실 웹사이트에서도 이재명 대통령의 공식 활동이 소개되고 있으며, 위키백과와 나무위키에서도 현직 대통령이 이재명임을 명시하고 있습니다.\n\n**참고 자료**  \n1. 나무위키 – “대한민국 대통령” – 이재명 현직, 취임일 2025년 6월 4일【1】  \n2. 위키백과 – “대한민국 대통령” – 현직 이재명, 2025년 6월 4일 취임【2】  \n3. 위키백과 – “대한민국 대통령 목록” – 현 대통령은 2025년 6월 4일 취임한 이재명【3】  \n4. 대통령실 공식 사이트 – 이재명 대통령의 최신 공식 일정 및 활동 소개【4】",
+        "search_results": [
+          {
+            "title": "대한민국 대통령",
+            "url": "https://namu.wiki/w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EB%8C%80%ED%86%B5%EB%A0%B9",
+            "content": "대한민국 대통령 ; 이재명 21대 대선 선관위 프로필.jpg ; 현직. 이재명 ; 취임일. 2025년 6월 4일 ; 소속 정당. 더불어민주당 ; 집무실. 대한민국 대통령실 ...",
+            "score": 1.0
+          },
+          {
+            "title": "대한민국 대통령 - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%8C%80%ED%86%B5%EB%A0%B9",
+            "content": "대한민국 대통령 ; 현직 이재명. 2025년 6월 4일 취임 ; 현직 이재명. 2025년 6월 4일 취임 · 대한민국 대통령실 · 5년 (단임제) · 이승만.",
+            "score": 1.0
+          },
+          {
+            "title": "대한민국 대통령 목록 - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%8C%80%ED%86%B5%EB%A0%B9_%EB%AA%A9%EB%A1%9D",
+            "content": "... 은 탈당하지 않은 유일한 전직 대통령으로 남아 있다. 현 대한민국 대통령은 제21대 대통령 선거에서 승리하여 2025년 6월 4일 취임한 이재명이다. 목차. 1 대통령 목록 ...",
+            "score": 1.0
+          }
+        ],
+        "result_count": 10
+      }
+    },
+    "timestamp": "2025-10-16 15:41:43"
+  },
+  {
+    "query": "A2A가 AI to ALL 이 맞아?",
+    "engines": {
+      "Tavily": {
+        "search_success": true,
+        "search_error": "",
+        "llm_response": "**핵심 답변**  \n아니요. A2A는 “AI to AI”(AI‑to‑AI Interaction) 혹은 “Agent 2 Agent”(에이전트 간 상호작용)을 의미합니다. “AI to ALL”(AI to All)이라는 뜻은 아닙니다.  \n\n**상세 설명**  \n- **AI‑to‑AI Interaction**: A2A는 여러 AI 에이전트가 사람의 개입 없이 서로 통신하고 협업하도록 설계된 프로토콜·구조를 가리킵니다. 즉, “AI가 AI와 소통한다”는 의미입니다【1】.  \n- **Agent 2 Agent (A2A) Protocol**: 구글이 발표한 A2A 프로토콜 역시 다중 에이전트 환경에서 자율적인 상호작용을 지원하기 위한 “Agent to Agent” 표준을 뜻합니다【2】【3】.  \n- 검색 결과에 “AI to ALL”이라는 해석이나 정의는 나타나지 않으며, 대부분의 공식 자료와 기사에서는 위와 같이 AI‑to‑AI 혹은 Agent‑to‑Agent 의미를 사용하고 있습니다.  \n\n따라서 A2A를 “AI to ALL”이라고 보는 것은 잘못된 해석이며, 올바른 의미는 AI 간의 직접적인 상호작용을 강조하는 “AI to AI” 혹은 “Agent 2 Agent”입니다.  \n\n**참고 자료**  \n1. “A2A란 무엇인가…AI가 서로 소통하며 일하는 방식” – AI‑to‑AI Interaction 설명【1】  \n2. “구글이 개발한 AI 에이전트 통신 프로토콜 ‘A2A’” – 다중 에이전트 환경을 위한 프로토콜 소개【2】  \n3. “2025년 완전 가이드: Agent2Agent (A2A) Protocol” – Agent 2 Agent 표준에 대한 상세 설명【3】",
+        "search_results": [
+          {
+            "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005642148",
+            "title": "[CEO인사이트] A2A란 무엇인가…AI가 서로 소통하며 일하는 방식",
+            "content": "A2A는 말 그대로 'AI 에이전트 간의 상호작용(AI-to-AI Interaction)'을 기반으로 합니다. 이 구조에서는 사람이 각 단계마다 개입하지 않아도, 여러 AI가",
+            "score": 0.65940565,
+            "raw_content": null
+          },
+          {
+            "url": "https://www.cio.com/article/4012166/%EA%B5%AC%EA%B8%80%EC%9D%B4-%EA%B0%9C%EB%B0%9C%ED%95%9C-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%86%B5%EC%8B%A0-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-a2a-%EB%A6%AC%EB%88%85.html",
+            "title": "구글이 개발한 AI 에이전트 통신 프로토콜 'A2A', 리눅스 재단 품으로",
+            "content": "A2A는 올해 4월 구글이 공개한 프로젝트로, 다중 에이전트 환경에서 자율적으로 상호작용해야 하는 에이전트들의 니즈를 해결하기 위해 설계됐다. 이",
+            "score": 0.528753,
+            "raw_content": null
+          },
+          {
+            "url": "https://a2aprotocol.ai/blog/2025-full-guide-a2a-protocol-ko",
+            "title": "2025년 완전 가이드: Agent2Agent (A2A) Protocol - AI 에이전트 협업 ...",
+            "content": "Agent2Agent (A2A) Protocol은 AI 에이전트 생태계의 핵심 문제를 해결하기 위해 특별히 설계된 오픈 표준입니다: 서로 다른 팀, 다른 기술, 다른 조직에",
+            "score": 0.52130115,
+            "raw_content": null
+          }
+        ],
+        "result_count": 5
+      },
+      "Naver": {
+        "search_success": true,
+        "search_error": "",
+        "llm_response": "**핵심 답변**  \n아니요. A2A는 “AI to ALL”이 아니라 **Agent to Agent**(에이전트 간 상호작용)이라는 의미입니다.\n\n**상세 설명**  \n- 여러 최신 기사와 구글 개발자 블로그에서는 A2A를 **“Agent to Agent”** 혹은 **“Agent‑to‑Agent”** 라고 정의하고 있습니다. 이는 개별 AI 에이전트들이 서로 직접 대화·협업하여 업무를 자동화하거나 복잡한 문제를 해결하도록 설계된 프로토콜·프레임워크를 의미합니다.  \n- 예를 들어, 구글 개발자 블로그에서는 “A2A(Agent to Agent) … AI 에이전트는 반복되거나 복잡한 여러 일상 업무를 자율적으로 처리”한다고 설명하고 있으며, 다른 매체에서도 “A2A(Agent to Agent)가 무엇인지”를 강조하고 있습니다【2†source】【3†source】.  \n- “AI to ALL”이라는 해석은 검색 결과에 나타나지 않으며, 현재 업계에서 통용되는 A2A의 의미와는 맞지 않습니다.\n\n**참고 자료**  \n1. “Agent2Agent(A2A) 프로토콜 발표 - Google Developers Blog” – A2A를 Agent to Agent로 설명【2†source】  \n2. “[Agent] AI 에이전트 프로토콜, 구글 A2A 개념부터 원리 실습하기” – A2A가 Agent to Agent임을 명시【3†source】  \n3. “A2A가 뭔데? AI가 AI와 일하는 시대가 온다” – A2A를 Agent to Agent(에이전트 간 협업)로 소개【1†source】  ",
+        "search_results": [
+          {
+            "title": "A2A가 뭔데? AI가 AI와 일하는 시대가 온다",
+            "url": "https://maily.so/thesync/posts/32z8w004zn4",
+            "content": "🎯 이런 분들은 꼭 읽어보세요! ; ✅ A2A(Agent to Agent)가 무엇인지 쉽게 이해하고 싶은 분 ✅ AI 에이전트가 경제와 산업을 어떻게 바꿀지 알고 싶은 분 ✅ AI 시대, 인간의 역할과 미래 직업 변화가 궁금한 분 ✅ AI를 활용한 새로운 기회를 찾고 싶은 창업가, 스타트업 관계자 이 말이 SF처럼 들릴 수도 있지만, 지금 현실이 되고 있는 변화예요. 최근 오픈AI는 월 최대 2만 달러에 달하는...",
+            "score": 1.0
+          },
+          {
+            "title": "Agent2Agent(A2A) 프로토콜 발표 - Google Developers Blog",
+            "url": "https://developers.googleblog.com/ko/a2a-a-new-era-of-agent-interoperability/",
+            "content": "에이전트 상호 운용성의 새로운 시대 ; AI 에이전트는 반복되거나 복잡한 여러 일상 업무를 자율적으로 처리하여 생산성을 더욱 높일 수 있는 특별한 기회를 제공합니다. 오늘날 기업들은 새로운 노트북 주문부터 고객 서비스 담당자 지원, 공급망 계획 지원까지 업무 전반에서의 프로세스를 확장, 자동화, 개선하는 데 도움이 되는 자율 에이전트를 점점 더 많이 개발 및 배포하고...",
+            "score": 1.0
+          },
+          {
+            "title": "[Agent] AI 에이전트 프로토콜, 구글 A2A 개념부터 원리 실습하기",
+            "url": "https://goldenrabbit.co.kr/2025/08/08/agent-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EA%B5%AC%EA%B8%80-a2a-%EA%B0%9C%EB%85%90%EB%B6%80%ED%84%B0-%EC%9B%90%EB%A6%AC-%EC%8B%A4%EC%8A%B5%ED%95%98/",
+            "content": "구글 A2A 개념부터 원리 실습하기 이 글은 [요즘 AI 에이전트... 구글은 A2A라는 프로토콜을 내놓았습니다. A2A란? A2A(Agent to Agent)는... 지원 A2A의 핵심 개념 및 용어들 A2A가 무엇인지 그리고 어떤 것을...",
+            "score": 1.0
+          }
+        ],
+        "result_count": 10
+      },
+      "DuckDuckGo": {
+        "search_success": true,
+        "search_error": "",
+        "llm_response": "**핵심 답변**  \n검색 결과에 따르면 A2A는 “AI to ALL”이라는 의미가 아니라, 주로 **Agent‑to‑Agent**(에이전트 간 통신) 프로토콜을 가리키는 용어로 사용됩니다.  \n\n**상세 설명**  \n- GitHub에 공개된 Google ADK(Java) 프로젝트에서는 *“A2A and ADK integration For remote agent-to-agent communication…”* 라는 문구가 등장합니다. 여기서 A2A는 **agent‑to‑agent**(에이전트‑대‑에이전트) 통신을 의미한다는 점을 알 수 있습니다【1】.  \n- 다른 검색 결과에서도 A2A가 Python 버전과 비교해 기능 차이가 있다는 언급이 나오는데, 이는 여전히 **에이전트 간** 프로토콜을 지칭하고 있습니다【4】.  \n\n따라서 현재 확인된 자료에서는 A2A가 “AI to ALL”이라는 풀 네임을 가지고 있다는 근거를 찾을 수 없으며, 대신 **에이전트 간 통신**을 의미하는 약어로 이해하는 것이 타당합니다.\n\n**참고 자료**  \n- “Agent Development Kit (ADK) for Java” – GitHub, A2A와 ADK 통합 설명 (agent‑to‑agent communication)【1】  \n- “Related requirements list” – GitHub Issue #335, A2A 구현 내용 언급【4】  ",
+        "search_results": [
+          {
+            "title": "Agent Development Kit (ADK) for Java - GitHub",
+            "url": "https://github.com/google/adk-java/",
+            "content": "🤖 A2A and ADK integration For remote agent-to-agent communication, ADK integrates with the A2A protocol. See a2a/README.md for end-to …",
+            "score": 1.0
+          },
+          {
+            "title": "google adk-java · Discussions · GitHub",
+            "url": "https://github.com/google/adk-java/discussions",
+            "content": "Explore the GitHub Discussions forum for google adk-java. Discuss code, ask questions & collaborate with the developer community.",
+            "score": 1.0
+          },
+          {
+            "title": "Releases: google/adk-java - GitHub",
+            "url": "https://github.com/google/adk-java/releases",
+            "content": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. - …",
+            "score": 1.0
+          }
+        ],
+        "result_count": 5
+      },
+      "Google": {
+        "search_success": true,
+        "search_error": "",
+        "llm_response": "**1. 핵심 답변**  \n아니요. A2A는 “AI to AI”(AI 에이전트 간 상호작용) 또는 “Agent 2 Agent”를 의미하며, “AI to ALL”(AI 모두에게)이라는 뜻이 아닙니다.  \n\n**2. 상세 설명**  \n- **AI to AI (AI 에이전트 간 상호작용)**: 여러 AI 에이전트가 사람의 개입 없이 서로 통신하고 협업하도록 설계된 개념·프로토콜을 가리킵니다. 예를 들어, A2A를 기반으로 하면 하나의 AI가 수행한 작업 결과를 다른 AI가 바로 받아 이어서 처리할 수 있습니다【2†source】.  \n- **Agent 2 Agent (A2A) Protocol**: 구글·마이크로소프트 등 주요 기업이 추진하고 있는 표준 프로토콜로, 서로 다른 플랫폼·벤더에 종속되지 않고 AI 에이전트가 직접 데이터와 명령을 교환하도록 합니다【3†source】【4†source】.  \n- “AI to ALL”이라는 해석은 검색 결과에 나타나지 않으며, 공식 문서·언론 보도에서도 A2A를 “AI to AI” 혹은 “Agent 2 Agent”로 정의하고 있습니다.  \n\n따라서 A2A를 “AI to ALL”이라고 보는 것은 잘못된 해석이며, 올바른 의미는 AI 에이전트 간의 직접적인 상호작용을 뜻합니다.  \n\n**3. 참고 자료**  \n- [CEO인사이트] “A2A는 말 그대로 ‘AI 에이전트 간의 상호작용(AI-to-AI Interaction)’을 기반으로 합니다.”【2†source】  \n- [Agent2Agent (A2A) Protocol] “Agent2Agent (A2A) Protocol은 AI 에이전트 생태계의 핵심 문제를 해결하기 위해 설계된 오픈 표준”【3†source】  \n- [Google Developers Blog] “A2A 프로토콜은 AI 에이전트가 프레임워크나 업체 종속 없이 서로 직접 통신, 협업, 조율해 …”【4†source】",
+        "search_results": [
+          {
+            "title": "[Tech Series] A2A는 AI 에이전트 간 통합과 확장성을 어떻게 ...",
+            "url": "https://tech.ktcloud.com/entry/2025-07-ktcloud-a2a-ai-integration-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A6%AC%ED%8F%AC%ED%8A%B8",
+            "content": "하지만 각 AI 벤더와 개발자들이 서로 다른 방식으로 통합을 구현하면서, 상호 운용성이 거의 없는 파편화된 생태계가 만들어졌죠. 마치 초기 인터넷처럼, ...",
+            "score": 1.0
+          },
+          {
+            "title": "[CEO인사이트] A2A란 무엇인가…AI가 서로 소통하며 일하는 ...",
+            "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005642148",
+            "content": "A2A는 말 그대로 'AI 에이전트 간의 상호작용(AI-to-AI Interaction)'을 기반으로 합니다. 이 구조에서는 사람이 각 단계마다 개입하지 않아도, 여러 AI가 ...",
+            "score": 1.0
+          },
+          {
+            "title": "Agent2Agent (A2A) Protocol - AI 에이전트 협업의 새로운 표준",
+            "url": "https://a2aprotocol.ai/blog/2025-full-guide-a2a-protocol-ko",
+            "content": "Agent2Agent (A2A) Protocol은 AI 에이전트 생태계의 핵심 문제를 해결하기 위해 특별히 설계된 오픈 표준입니다: 서로 다른 팀, 다른 기술, 다른 조직에 ...",
+            "score": 1.0
+          }
+        ],
+        "result_count": 10
+      }
+    },
+    "timestamp": "2025-10-16 15:42:08"
+  }
+]

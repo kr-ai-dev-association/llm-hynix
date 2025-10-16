@@ -31,10 +31,29 @@
         ]
       },
       "Naver": {
-        "success": false,
-        "result_count": 0,
-        "error_message": "네이버 API 클라이언트 ID와 시크릿이 필요합니다.",
-        "results": []
+        "success": true,
+        "result_count": 10,
+        "error_message": "",
+        "results": [
+          {
+            "title": "현재 대한민국 대통령은 누구인가?",
+            "url": "http://www.daehansinbo.com/bbs/board.php?bo_table=46&wr_id=42221",
+            "content": "현재 대한민국 대통령은 누구인가? 한동훈 국민의힘 대표는 윤석열 대통령을 향해 질서 있는 조기 퇴진으로 직무정지나 직무에서 배제 하겠다고 한다 또한 외교 등 국정관여 하지 않을 것이라고 까지 했다 그렇다면 이는 한마디로 조기대선을 추진하겠다는 뜻이나 다를 바가 없다고 생각한다 현재 대한민국 대통령은 윤석열 대통령으로서 엄연히 존재하고 있다 그런데 어떻...",
+            "score": 1.0
+          },
+          {
+            "title": "尹이 극찬한 ‘챗GPT’에 “현재 대통령 누구” 물었더니 “문재인”",
+            "url": "https://www.segye.com/newsView/20230131504431",
+            "content": "“Who is the current president of south korea?(현재 대한민국의 대통령은 누구인가?)” “Moon Jae-in is the current president of south korea. (현재 대한민국 대통령은 문재인입니다)” 미국의 비영리 연구소 ‘오픈 AI’가 개발해 윤석열 대통령이 최근 청와대 영빈관에서 열린 행정...",
+            "score": 1.0
+          },
+          {
+            "title": "대한민국 대통령 - 나무위키",
+            "url": "https://namu.wiki/w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EB%8C%80%ED%86%B5%EB%A0%B9",
+            "content": "대한민국 대통령(大韓民國大統領)은 대한민국의 국가원수이자 정부수반으로, 대한민국의 대통령 기관... 현재 대한민국 대통령은 2025년 6월 3일 제21대 대통령 선거에서 당선된 이재명이다. 임기는 2030년 6월 3일...",
+            "score": 1.0
+          }
+        ]
       },
       "DuckDuckGo": {
         "success": true,
@@ -42,33 +61,52 @@
         "error_message": "",
         "results": [
           {
-            "title": "LE BLE D'OR 金色三麥",
-            "url": "https://lebledor.com.tw/",
-            "content": "金色三麥提供道地的美味餐點、多款經典手工精釀啤酒，快呼朋引伴一起來享受周末夜晚的時光!",
+            "title": "Women's Boots | ZARA United States",
+            "url": "https://www.zara.com/us/en/woman-shoes-boots-l1263.html",
+            "content": "Punk, biker, and cowboy styles dominate our collection of women’s boots this season. From knee-high leather boots to block-heeled ankle boot styles, our new online collection has styles to …",
             "score": 1.0
           },
           {
-            "title": "LE BLE D'OR 金色三麥",
-            "url": "https://lebledor.com.tw/news",
-            "content": "金色三麥挺壽星！ 經典蛋糕六吋全年送 金色三麥把生日變大啦！ 來金色三麥過生日，壽星送最大。 全年適用！",
+            "title": "Women's Boots - Foot Locker",
+            "url": "https://www.footlocker.com/category/womens/shoes/boots.html",
+            "content": "Shop the latest selection of Women's Boots at Foot Locker. Find the hottest sneaker drops from brands like Jordan, Nike, Under Armour, New Balance, and a bunch more. Free shipping for …",
             "score": 1.0
           },
           {
-            "title": "美味餐點 - LE BLE D'OR 金色三麥",
-            "url": "https://lebledor.com.tw/menu/chef-recommended/signature",
-            "content": "金色三麥提供道地的美味餐點、多款經典手工精釀啤酒，快呼朋引伴一起來享受周末夜晚的時光!",
+            "title": "Boots for Women: Stylish & Comfortable Footwear | TOMS",
+            "url": "https://www.toms.com/en-us/collections/women-boots-and-booties",
+            "content": "Explore stylish and comfortable boots for women at TOMS. Perfect for any occasion, our boots offer quality and versatility. Shop the latest styles today!",
             "score": 1.0
           }
         ]
       },
       "Google": {
-        "success": false,
-        "result_count": 0,
-        "error_message": "Google Search API 키가 필요합니다.",
-        "results": []
+        "success": true,
+        "result_count": 10,
+        "error_message": "",
+        "results": [
+          {
+            "title": "대한민국 대통령",
+            "url": "https://namu.wiki/w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EB%8C%80%ED%86%B5%EB%A0%B9",
+            "content": "대한민국 대통령 ; 이재명 21대 대선 선관위 프로필.jpg ; 현직. 이재명 ; 취임일. 2025년 6월 4일 ; 소속 정당. 더불어민주당 ; 집무실. 대한민국 대통령실 ...",
+            "score": 1.0
+          },
+          {
+            "title": "대한민국 대통령 - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%8C%80%ED%86%B5%EB%A0%B9",
+            "content": "대한민국 대통령 ; 현직 이재명. 2025년 6월 4일 취임 ; 현직 이재명. 2025년 6월 4일 취임 · 대한민국 대통령실 · 5년 (단임제) · 이승만.",
+            "score": 1.0
+          },
+          {
+            "title": "대한민국 대통령 목록 - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%8C%80%ED%86%B5%EB%A0%B9_%EB%AA%A9%EB%A1%9D",
+            "content": "... 은 탈당하지 않은 유일한 전직 대통령으로 남아 있다. 현 대한민국 대통령은 제21대 대통령 선거에서 승리하여 2025년 6월 4일 취임한 이재명이다. 목차. 1 대통령 목록 ...",
+            "score": 1.0
+          }
+        ]
       }
     },
-    "timestamp": "2025-10-16 15:25:47"
+    "timestamp": "2025-10-16 15:39:09"
   },
   {
     "query": "A2A가 AI to ALL 이 맞아?",
@@ -102,20 +140,39 @@
         ]
       },
       "Naver": {
-        "success": false,
-        "result_count": 0,
-        "error_message": "네이버 API 클라이언트 ID와 시크릿이 필요합니다.",
-        "results": []
+        "success": true,
+        "result_count": 10,
+        "error_message": "",
+        "results": [
+          {
+            "title": "A2A가 뭔데? AI가 AI와 일하는 시대가 온다",
+            "url": "https://maily.so/thesync/posts/32z8w004zn4",
+            "content": "🎯 이런 분들은 꼭 읽어보세요! ; ✅ A2A(Agent to Agent)가 무엇인지 쉽게 이해하고 싶은 분 ✅ AI 에이전트가 경제와 산업을 어떻게 바꿀지 알고 싶은 분 ✅ AI 시대, 인간의 역할과 미래 직업 변화가 궁금한 분 ✅ AI를 활용한 새로운 기회를 찾고 싶은 창업가, 스타트업 관계자 이 말이 SF처럼 들릴 수도 있지만, 지금 현실이 되고 있는 변화예요. 최근 오픈AI는 월 최대 2만 달러에 달하는...",
+            "score": 1.0
+          },
+          {
+            "title": "Agent2Agent(A2A) 프로토콜 발표 - Google Developers Blog",
+            "url": "https://developers.googleblog.com/ko/a2a-a-new-era-of-agent-interoperability/",
+            "content": "에이전트 상호 운용성의 새로운 시대 ; AI 에이전트는 반복되거나 복잡한 여러 일상 업무를 자율적으로 처리하여 생산성을 더욱 높일 수 있는 특별한 기회를 제공합니다. 오늘날 기업들은 새로운 노트북 주문부터 고객 서비스 담당자 지원, 공급망 계획 지원까지 업무 전반에서의 프로세스를 확장, 자동화, 개선하는 데 도움이 되는 자율 에이전트를 점점 더 많이 개발 및 배포하고...",
+            "score": 1.0
+          },
+          {
+            "title": "[Agent] AI 에이전트 프로토콜, 구글 A2A 개념부터 원리 실습하기",
+            "url": "https://goldenrabbit.co.kr/2025/08/08/agent-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EA%B5%AC%EA%B8%80-a2a-%EA%B0%9C%EB%85%90%EB%B6%80%ED%84%B0-%EC%9B%90%EB%A6%AC-%EC%8B%A4%EC%8A%B5%ED%95%98/",
+            "content": "구글 A2A 개념부터 원리 실습하기 이 글은 [요즘 AI 에이전트... 구글은 A2A라는 프로토콜을 내놓았습니다. A2A란? A2A(Agent to Agent)는... 지원 A2A의 핵심 개념 및 용어들 A2A가 무엇인지 그리고 어떤 것을...",
+            "score": 1.0
+          }
+        ]
       },
       "DuckDuckGo": {
         "success": true,
-        "result_count": 5,
+        "result_count": 9,
         "error_message": "",
         "results": [
           {
             "title": "Agent Development Kit (ADK) for Java - GitHub",
             "url": "https://github.com/google/adk-java/",
-            "content": "🤖 A2A and ADK integration For remote agent-to-agent communication, ADK integrates with the A2A protocol. See a2a/README.md for end-to …",
+            "content": "🤖 A2A and ADK integration For remote agent-to-agent communication, ADK integrates with the A2A protocol. See a2a/README.md for end-to-end setup instructions and sample commands.",
             "score": 1.0
           },
           {
@@ -127,18 +184,37 @@
           {
             "title": "Releases: google/adk-java - GitHub",
             "url": "https://github.com/google/adk-java/releases",
-            "content": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. - …",
+            "content": "May 20, 2025 · An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. - google/adk-java",
             "score": 1.0
           }
         ]
       },
       "Google": {
-        "success": false,
-        "result_count": 0,
-        "error_message": "Google Search API 키가 필요합니다.",
-        "results": []
+        "success": true,
+        "result_count": 10,
+        "error_message": "",
+        "results": [
+          {
+            "title": "[Tech Series] A2A는 AI 에이전트 간 통합과 확장성을 어떻게 ...",
+            "url": "https://tech.ktcloud.com/entry/2025-07-ktcloud-a2a-ai-integration-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A6%AC%ED%8F%AC%ED%8A%B8",
+            "content": "하지만 각 AI 벤더와 개발자들이 서로 다른 방식으로 통합을 구현하면서, 상호 운용성이 거의 없는 파편화된 생태계가 만들어졌죠. 마치 초기 인터넷처럼, ...",
+            "score": 1.0
+          },
+          {
+            "title": "[CEO인사이트] A2A란 무엇인가…AI가 서로 소통하며 일하는 ...",
+            "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005642148",
+            "content": "A2A는 말 그대로 'AI 에이전트 간의 상호작용(AI-to-AI Interaction)'을 기반으로 합니다. 이 구조에서는 사람이 각 단계마다 개입하지 않아도, 여러 AI가 ...",
+            "score": 1.0
+          },
+          {
+            "title": "Agent2Agent (A2A) Protocol - AI 에이전트 협업의 새로운 표준",
+            "url": "https://a2aprotocol.ai/blog/2025-full-guide-a2a-protocol-ko",
+            "content": "Agent2Agent (A2A) Protocol은 AI 에이전트 생태계의 핵심 문제를 해결하기 위해 특별히 설계된 오픈 표준입니다: 서로 다른 팀, 다른 기술, 다른 조직에 ...",
+            "score": 1.0
+          }
+        ]
       }
     },
-    "timestamp": "2025-10-16 15:25:55"
+    "timestamp": "2025-10-16 15:39:19"
   }
 ]

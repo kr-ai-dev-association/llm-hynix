@@ -7,7 +7,7 @@ from typing import Dict, List, Optional
 class NaverSearcher:
     """네이버 검색 API를 사용한 웹 검색 클래스"""
     
-    def __init__(self, client_id: str = "", client_secret: str = ""):
+    def __init__(self, client_id: str = "pURdWVQAu4a6a1E_ZE90", client_secret: str = "o04UV4VfZo"):
         """
         네이버 검색 API 클래스 초기화
         

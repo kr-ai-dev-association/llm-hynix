@@ -7,7 +7,7 @@ from serpapi import GoogleSearch
 class GoogleSearcher:
     """Google Search API를 사용한 웹 검색 클래스"""
     
-    def __init__(self, api_key: str = ""):
+    def __init__(self, api_key: str = "57de500bc722b8fb368380314b57059aa06c212a749500737ca0f4bd5fa106f8"):
         """
         Google Search API 클래스 초기화
         
