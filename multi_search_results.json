@@ -1,0 +1,144 @@
+[
+  {
+    "query": "대한민국의 현재 대통령은 누구인가요?",
+    "engines": {
+      "Tavily": {
+        "success": true,
+        "result_count": 5,
+        "error_message": "",
+        "results": [
+          {
+            "url": "https://namu.wiki/w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EB%8C%80%ED%86%B5%EB%A0%B9",
+            "title": "대한민국 대통령 - 나무위키",
+            "content": "대한민국 대통령 ; 이재명 21대 대선 선관위 프로필.jpg ; 현직. 이재명 ; 취임일. 2025년 6월 4일 ; 소속 정당. 더불어민주당 ; 집무실. 대한민국 대통령실",
+            "score": 0.98534,
+            "raw_content": null
+          },
+          {
+            "url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%8C%80%ED%86%B5%EB%A0%B9",
+            "title": "대한민국 대통령 - 위키백과, 우리 모두의 백과사전",
+            "content": "대한민국 대통령 ; 현직 이재명. 2025년 6월 4일 취임 ; 현직 이재명. 2025년 6월 4일 취임 · 대한민국 대통령실 · 5년 (단임제) · 이승만.",
+            "score": 0.98122,
+            "raw_content": null
+          },
+          {
+            "url": "https://www.president.go.kr/",
+            "title": "대한민국 대통령실",
+            "content": "이재명 대통령, 빅토리아 스웨덴 왕세녀 내외 접견 관련 강유정 대변인 서면 브리핑 이재명 대통령은 오늘 오후(10.15, 수) 10.15-17간 공식 방한하는 「빅토리아(Victoria)」 스웨덴 왕세녀를 접견했습니다. 이재명 대통령은 오늘 게임업체 ‘크래프톤’의 복합 문화 공간인 ‘펍지 성수’를 방문해 ‘세계 3위의 게임강국으로 레벨업’이라는 주제로 현장 간담회를 개최했습니다. 이재명 대통령은 오늘 국무회의에서 캄보디아 사건에 대한 강력한 해결의지를 표명했습니다.이 대… 이재명 대통령 국가정보자원관리원 현장 방문 관련 김남준 대변인 서면 브리핑 이재명 대통령, 빅토리아 스웨덴 왕세녀 내외 접견 관련 강유정 대변인 서면 브리핑 이재명 대통령은 오늘 게임업체 ‘크래프톤’의 복합 문화 공간인 ‘펍지 성수’를 방문해 ‘세계 3위의 게임강국으로 레벨업’이라는 주제로 현장 간담회를 개최했습니다. 이재명 대통령은 오늘 국무회의에서 캄보디아 사건에 대한 강력한 해결의지를 표명했습니다.이 대… 이재명 대통령 국가정보자원관리원 현장 방문 관련 김남준 대변인 서면 브리핑",
+            "score": 0.98084,
+            "raw_content": null
+          }
+        ]
+      },
+      "Naver": {
+        "success": false,
+        "result_count": 0,
+        "error_message": "네이버 API 클라이언트 ID와 시크릿이 필요합니다.",
+        "results": []
+      },
+      "DuckDuckGo": {
+        "success": true,
+        "result_count": 10,
+        "error_message": "",
+        "results": [
+          {
+            "title": "LE BLE D'OR 金色三麥",
+            "url": "https://lebledor.com.tw/",
+            "content": "金色三麥提供道地的美味餐點、多款經典手工精釀啤酒，快呼朋引伴一起來享受周末夜晚的時光!",
+            "score": 1.0
+          },
+          {
+            "title": "LE BLE D'OR 金色三麥",
+            "url": "https://lebledor.com.tw/news",
+            "content": "金色三麥挺壽星！ 經典蛋糕六吋全年送 金色三麥把生日變大啦！ 來金色三麥過生日，壽星送最大。 全年適用！",
+            "score": 1.0
+          },
+          {
+            "title": "美味餐點 - LE BLE D'OR 金色三麥",
+            "url": "https://lebledor.com.tw/menu/chef-recommended/signature",
+            "content": "金色三麥提供道地的美味餐點、多款經典手工精釀啤酒，快呼朋引伴一起來享受周末夜晚的時光!",
+            "score": 1.0
+          }
+        ]
+      },
+      "Google": {
+        "success": false,
+        "result_count": 0,
+        "error_message": "Google Search API 키가 필요합니다.",
+        "results": []
+      }
+    },
+    "timestamp": "2025-10-16 15:25:47"
+  },
+  {
+    "query": "A2A가 AI to ALL 이 맞아?",
+    "engines": {
+      "Tavily": {
+        "success": true,
+        "result_count": 5,
+        "error_message": "",
+        "results": [
+          {
+            "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005642148",
+            "title": "[CEO인사이트] A2A란 무엇인가…AI가 서로 소통하며 일하는 방식",
+            "content": "A2A는 말 그대로 'AI 에이전트 간의 상호작용(AI-to-AI Interaction)'을 기반으로 합니다. 이 구조에서는 사람이 각 단계마다 개입하지 않아도, 여러 AI가",
+            "score": 0.65940565,
+            "raw_content": null
+          },
+          {
+            "url": "https://www.cio.com/article/4012166/%EA%B5%AC%EA%B8%80%EC%9D%B4-%EA%B0%9C%EB%B0%9C%ED%95%9C-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%86%B5%EC%8B%A0-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-a2a-%EB%A6%AC%EB%88%85.html",
+            "title": "구글이 개발한 AI 에이전트 통신 프로토콜 'A2A', 리눅스 재단 품으로",
+            "content": "A2A는 올해 4월 구글이 공개한 프로젝트로, 다중 에이전트 환경에서 자율적으로 상호작용해야 하는 에이전트들의 니즈를 해결하기 위해 설계됐다. 이",
+            "score": 0.528753,
+            "raw_content": null
+          },
+          {
+            "url": "https://a2aprotocol.ai/blog/2025-full-guide-a2a-protocol-ko",
+            "title": "2025년 완전 가이드: Agent2Agent (A2A) Protocol - AI 에이전트 협업 ...",
+            "content": "Agent2Agent (A2A) Protocol은 AI 에이전트 생태계의 핵심 문제를 해결하기 위해 특별히 설계된 오픈 표준입니다: 서로 다른 팀, 다른 기술, 다른 조직에",
+            "score": 0.52130115,
+            "raw_content": null
+          }
+        ]
+      },
+      "Naver": {
+        "success": false,
+        "result_count": 0,
+        "error_message": "네이버 API 클라이언트 ID와 시크릿이 필요합니다.",
+        "results": []
+      },
+      "DuckDuckGo": {
+        "success": true,
+        "result_count": 5,
+        "error_message": "",
+        "results": [
+          {
+            "title": "Agent Development Kit (ADK) for Java - GitHub",
+            "url": "https://github.com/google/adk-java/",
+            "content": "🤖 A2A and ADK integration For remote agent-to-agent communication, ADK integrates with the A2A protocol. See a2a/README.md for end-to …",
+            "score": 1.0
+          },
+          {
+            "title": "google adk-java · Discussions · GitHub",
+            "url": "https://github.com/google/adk-java/discussions",
+            "content": "Explore the GitHub Discussions forum for google adk-java. Discuss code, ask questions & collaborate with the developer community.",
+            "score": 1.0
+          },
+          {
+            "title": "Releases: google/adk-java - GitHub",
+            "url": "https://github.com/google/adk-java/releases",
+            "content": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. - …",
+            "score": 1.0
+          }
+        ]
+      },
+      "Google": {
+        "success": false,
+        "result_count": 0,
+        "error_message": "Google Search API 키가 필요합니다.",
+        "results": []
+      }
+    },
+    "timestamp": "2025-10-16 15:25:55"
+  }
+]
