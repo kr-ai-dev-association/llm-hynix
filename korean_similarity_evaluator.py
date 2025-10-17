@@ -5,24 +5,38 @@ from kiwipiepy import Kiwi
 from nltk.translate.meteor_score import meteor_score
 from rouge_score import rouge_scorer
 from sacrebleu.metrics import BLEU
-from bert_score import score as bert_score
+# BERTScore 관련 import는 제거했습니다.
 
 
 class KoreanSimilarityEvaluator:
     """
-    BLEU, ROUGE-L, METEOR, BERTScore를 이용하여 두 한국어 문장의 유사도를 계산합니다.
+    BLEU, ROUGE-L, METEOR만을 이용하여 두 한국어 문장의 유사도를 계산합니다.
     - 입력 문장은 Kiwi 형태소 분석을 통해 어근(표제어) 기반 토큰으로 정규화됩니다.
     - 정규화된 토큰은 공백으로 결합하여 BLEU/ROUGE/METEOR에 사용됩니다.
-    - BERTScore는 공백 결합된 정규화 문장을 klue/bert-base로 평가합니다.
+    - 최종 점수는 BLEU, ROUGE-L, METEOR 세 점수의 조화 평균(Harmonic Mean)으로 반환합니다.
     """
 
-    def __init__(self, bert_model: str = "klue/bert-base", device: str = "cpu") -> None:
+    def __init__(
+        self,
+        # 기존에 BERTScore용 파라미터가 있었지만, 현재는 사용되지 않으므로 기본값만 유지합니다.
+        bert_model: str = "klue/bert-base",
+        bert_model_path: str = None,
+        device: str = "cpu",
+    ) -> None:
+        """
+        Args:
+            bert_model (str): 현재 사용되지 않음. 호환성을 위해 유지.
+            bert_model_path (str, optional): 현재 사용되지 않음.
+            device (str): 현재 사용되지 않음.
+        """
         self.kiwi = Kiwi()
         self.bleu = BLEU(effective_order=True)
         # ROUGE 점수로 ROUGE-L F1을 사용합니다
         self.rouge = rouge_scorer.RougeScorer(["rougeL"], use_stemmer=False)
-        self.bert_model = bert_model
-        self.device = device
+        # BERTScore 관련 속성은 더 이상 필요하지 않으므로 제거
+        # self.bert_model = bert_model
+        # self.bert_model_path = bert_model_path
+        # self.device = device
 
     def _lemmatize_tokens(self, text: str) -> List[str]:
         tokens = []
@@ -48,6 +62,10 @@ class KoreanSimilarityEvaluator:
 
     @staticmethod
     def _harmonic_mean(values: List[float], eps: float = 1e-8) -> float:
+        """
+        주어진 값들의 조화 평균을 계산합니다.
+        값이 0에 가깝거나 음수이면 0을 반환합니다.
+        """
         valid = [max(v, 0.0) for v in values]
         if any(v <= eps for v in valid):
             return 0.0
@@ -77,6 +95,10 @@ class KoreanSimilarityEvaluator:
         return 2 * prec * rec / (prec + rec)
 
     def evaluate_pair(self, ref: str, hyp: str) -> Dict[str, float]:
+        """
+        두 문장에 대해 BLEU, ROUGE-L, METEOR 점수를 계산하고
+        이 세 점수의 조화 평균을 반환합니다.
+        """
         ref_tokens, hyp_tokens, ref_space, hyp_space = self._texts_to_lexical_inputs(ref, hyp)
 
         # BLEU (문장 단위), [0,1] 범위로 스케일링 - sacrebleu는 문자열 입력을 기대
@@ -94,31 +116,12 @@ class KoreanSimilarityEvaluator:
         except Exception:
             meteor = 0.0
 
-        # klue/bert-base를 사용한 BERTScore(F1); 정규화된 문장 사용
-        try:
-            # klue/bert-base는 bert-score의 기본 레이어 매핑에 없을 수 있으므로 명시적으로 레이어 지정
-            P, R, F = bert_score(
-                cands=[hyp_space],
-                refs=[ref_space],
-                lang="ko",
-                model_type=self.bert_model,
-                num_layers=12,
-                device=self.device,
-                verbose=False,
-                rescale_with_baseline=False,
-            )
-            bert_f1 = float(F[0].item())
-        except Exception:
-            bert_f1 = 0.0
-
-        hmean = self._harmonic_mean([bleu_score, rouge_l, meteor, bert_f1])
+        # 조화 평균 (BLEU, ROUGE-L, METEOR)
+        hmean = self._harmonic_mean([bleu_score, rouge_l, meteor])
 
         return {
             "bleu": float(bleu_score),
             "rouge_l": float(rouge_l),
             "meteor": float(meteor),
-            "bertscore_f1": float(bert_f1),
             "harmonic_mean": float(hmean),
         }
-
-
